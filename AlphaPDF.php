@@ -1,6 +1,5 @@
 <?php
-
-
+require 'vendor/autoload.php';
 use setasign\Fpdi\Fpdi;
 
 class AlphaPDF extends FPDI
